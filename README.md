@@ -15,7 +15,7 @@ O objetivo deste jogo é proporcionar uma diversão desafiadora enquanto você t
 
 ## Como Jogar 🎮
 
-1. Acesse o [Github Pages](https://limarodrigo5.github.io/adivinhacaoDOM/){:target='_blank'}
+1. Acesse o [Github Pages](https://limarodrigo5.github.io/adivinhacaoDOM/){:target="_blank"}
 2. Escolha um número
 3. Clique ou pressione 'Enter' para realizar a tentativa
 4. Acertou? Você conseguirá visualizar quantas tentativas levou e resetar o jogo.
