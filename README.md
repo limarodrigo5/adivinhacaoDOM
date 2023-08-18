@@ -15,11 +15,10 @@ O objetivo deste jogo é proporcionar uma diversão desafiadora enquanto você t
 
 ## Como Jogar 🎮
 
-1. Abra o arquivo `index.html` em um navegador web.
-2. Digite um número entre 0 e 10 no campo de entrada.
-3. Clique no botão "Tentar" ou pressione a tecla "Enter".
-4. O jogo informará se você acertou, errou ou se o número está fora do intervalo permitido.
-5. Continue tentando até acertar o número!
+1. Acesse o Github Pages: https://limarodrigo5.github.io/adivinhacaoDOM/
+2. Escolha um número
+3. Clique ou pressione 'Enter' para realizar a tentativa
+4. Acertou? Você conseguirá visualizar quantas tentativas levou e resetar o jogo.
 
 ## Funcionalidades 🔍
 
